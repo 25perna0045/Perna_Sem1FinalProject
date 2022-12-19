@@ -1,0 +1,15 @@
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\bin\Debug\net6.0\Perna_Sem1FinalProject.exe
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\bin\Debug\net6.0\Perna_Sem1FinalProject.deps.json
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\bin\Debug\net6.0\Perna_Sem1FinalProject.runtimeconfig.json
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\bin\Debug\net6.0\Perna_Sem1FinalProject.dll
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\bin\Debug\net6.0\Perna_Sem1FinalProject.pdb
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.csproj.AssemblyReference.cache
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.AssemblyInfoInputs.cache
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.AssemblyInfo.cs
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.dll
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\refint\Perna_Sem1FinalProject.dll
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.pdb
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\Perna_Sem1FinalProject.genruntimeconfig.cache
+C:\Users\25perna0045\source\repos\Perna_Sem1FinalProject\Perna_Sem1FinalProject\obj\Debug\net6.0\ref\Perna_Sem1FinalProject.dll
